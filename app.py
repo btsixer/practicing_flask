@@ -7,7 +7,7 @@ from urllib.request import urlopen
 
 app = Flask(__name__)
 
-AUTH0_DOMAIN = 'https://btsixer.us.auth0.com'
+AUTH0_DOMAIN = 'btsixer.us.auth0.com'
 ALGORITHMS = ['RS256']
 API_AUDIENCE = 'http://127.0.0.1:5000'
 

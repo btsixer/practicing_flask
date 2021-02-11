@@ -54,6 +54,3 @@ The `--reload` flag will detect file changes and restart the server automaticall
 2. Select a unique tenant domain
 3. Create a new, single page web application
 4. Create a new API
-
-
-https://127.0.0.1:5000/authorize?audience=http://127.0.0.1:5000&response_type=token&client_id=6022c1f598f05200401f8f53&redirect_uri={{YOUR_CALLBACK_URI}}
